@@ -1,5 +1,6 @@
 {
   "name": "quiztastical",
+  "homepage": "https://adamsma.github.io/quiztastic",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
