@@ -13,7 +13,7 @@ export default function App(){
             {startGame ? 
                 <Quiz quizLength={5} /> : 
                 <StartScreen 
-                    title="Quizzical" 
+                    title="Quiztastic!" 
                     instructions="Click below to get your trivia on"
                     initGame={() => setStartGame(true)}
                 />
